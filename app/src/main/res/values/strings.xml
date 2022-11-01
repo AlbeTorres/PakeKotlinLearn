@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pake</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_entregas">Hello blank entregas</string>
+    <string name="hello_blank_clientes">Hello blank clientes</string>
+    <string name="hello_blank_disco">Hello blank disco</string>
+    <string name="Entregas">Entregas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

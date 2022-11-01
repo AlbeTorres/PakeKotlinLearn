@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/entregasItem"
+        android:icon="@drawable/ic_entregas"
+        android:title="Entregas"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/clientesItem"
+        android:icon="@drawable/ic_cliente"
+        android:title="Clientes"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/discoItem"
+        android:icon="@drawable/ic_storage"
+        android:title="Disco"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/ajusteItem"
+        android:icon="@drawable/ic_baseline_miscellaneous_services_24"
+        android:title="Ajustes"
+        app:showAsAction="always"/>
+
+
+</menu>
